@@ -9,3 +9,6 @@ use git diff between the files in the staging area
 
 WHat are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would be helpful when you want to experiment and having a copy to show your working code. They could later be merged.
+
+How do diagrams help you visulaize the branch structure?
+It helps make connections to what is reachable and accessible and code that will not be modified. How to access previous commits
