@@ -12,3 +12,7 @@ Branches would be helpful when you want to experiment and having a copy to show 
 
 How do diagrams help you visulaize the branch structure?
 It helps make connections to what is reachable and accessible and code that will not be modified. How to access previous commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result will combine both branches into the one that is checkedout. The diagram is represented the way it is because the branch still exists but can now be accessible through the other branch.
