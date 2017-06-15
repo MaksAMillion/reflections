@@ -16,3 +16,7 @@ It helps make connections to what is reachable and accessible and code that will
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result will combine both branches into the one that is checkedout. The diagram is represented the way it is because the branch still exists but can now be accessible through the other branch.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging helps code be up to date and mixing code faster, buttheir may be conflicts that git will not undestand which code to replace. Doing merges manually lets visualize the code you are working with and lets you collaborate for better understanding as what needs to removed and what needs to stay. The downside to merging manually is that it can be tedious.
