@@ -15,3 +15,7 @@ A branch is like an experimental repo that separates from the original until it 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can catch conflicting code before it is pushed into the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without using Git GitHub, collaborating on one piece of work would be in the same computer to avoid conflicting work. Communication/Understanding would be easier but finding time to work together and piecing it together would be much more difficult.
